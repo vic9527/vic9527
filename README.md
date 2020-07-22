@@ -1,6 +1,6 @@
 ## Introduction
 
-<img class="profile-picture" src="I.jpg">
+<img class="profile-picture" src="https://avatars1.githubusercontent.com/u/9958494?s=460&u=94711a552a2a6c8cc640b0eaaf96340d7f63cc1b&v=4">
 
 Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. You can see my simple academic introduction on [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086242899)].
 
