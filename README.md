@@ -1,10 +1,6 @@
 ## Introduction
 
-Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. You can see my simple academic introduction on [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086242899)].
-
-Email: [vic.woo@vip.163.com](mailto:vic.woo@vip.163.com) 
-
-[AING](https://aqexam.com): https://aqexam.com
+Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. You can see my simple academic introduction on [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086242899)] or [[Email to me](mailto:vic.woo@vip.163.com)].
 
 ## Publications
 
