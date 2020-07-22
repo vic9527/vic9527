@@ -78,3 +78,27 @@ Looking forward to more opportunities for learning and presentation...
 * **Min Sheng:** received the Ph.D. degree from the School of Computer and Information, Hefei University of Technology, China, in 2009. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086246418)]
 * **Chuansheng Shen:** received the Ph.D. degree from the University of Science and Technology of China, in 2012. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086822315)]
 * **Ali Abdullah Yahya:** Anqing Normal University, Anqing, China. [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086076552)]
+
+## Contact
+
+* Email: [vic.woo@vip.163.com](mailto:vic.woo@vip.163.com)
+
+* Phone: [+86-xxx xxxx xxxx](tel:+86-xxx xxxx xxxx)
+
+## Address
+
+Shanghai, China. 
+
+As of May 15, 2020.
+
+## Social
+
+1. [Facebook](#)
+2. [Twitter](#)
+3. [Google+](#)
+
+## Website
+
+[Homepage](https://whing.cn): https://whing.cn
+
+[AING](https://aqexam.com): https://aqexam.com
