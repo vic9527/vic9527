@@ -1,8 +1,3 @@
----
-layout: default
-permalink: /index
----
-
 ## Introduction
 
 <img class="profile-picture" src="I.jpg">
