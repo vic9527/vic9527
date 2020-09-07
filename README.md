@@ -2,6 +2,8 @@
 
 Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. You can see my simple academic introduction on [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086242899)] or [[Email to me](mailto:vic.woo@vip.163.com)].
 
+**Here is my curriculum vitae (CV) as a [[worker](https://www.whing.cn/research)] or [[researcher](https://www.whing.cn/bloghttps://www.whing.cn/research)], and [[Blog](https://www.whing.cn/blog)] of mine.**
+
 ## Publications
 
 **[1] Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data**  [[Link](https://ieeexplore.ieee.org/document/8693506)] [[PDF](https://github.com/vic9527/KAR_Articles/raw/master/2.IEEE-Access%EF%BC%9AAccurate%20Hierarchical%20Human%20Actions%20Recognition%20From%20Kinect%20Skeleton%20Data.pdf)]
