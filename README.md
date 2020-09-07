@@ -2,7 +2,7 @@
 
 Hi! I am Huang Wu, received the master’s degree in statistics from Anqing Normal University. I work on artificial intelligence in education currently. My current research interests include computer vision, human action recognition, and deep learning. You can see my simple academic introduction on [[IEEE Xplore](https://ieeexplore.ieee.org/author/37086242899)] or [[Email to me](mailto:vic.woo@vip.163.com)].
 
-**Here is my curriculum vitae (CV) as a [[worker](https://www.whing.cn/research)] or [[researcher](https://www.whing.cn/bloghttps://www.whing.cn/research)], and [[Blog](https://www.whing.cn/blog)] of mine.**
+**Here is my Curriculum Vitae (CV) as a [[Worker](https://www.whing.cn/research)] or [[Researcher](https://www.whing.cn/bloghttps://www.whing.cn/research)], and more in my [[Blog](https://www.whing.cn/blog)].**
 
 ## Publications
 
